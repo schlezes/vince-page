@@ -38,5 +38,3 @@ If you use VScode, then you would be able to evaluate the code as well as view t
 Thanks,
 
 Vince Schlezes
-
-Vince Schlezes
