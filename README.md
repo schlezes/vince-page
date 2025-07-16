@@ -32,7 +32,8 @@ I have two photos on the opening page as this is supposed to be a profile of me 
 
 <img width="1177" height="1041" alt="image" src="https://github.com/user-attachments/assets/02e0e8d9-7f02-409e-8244-0332c36b5d41" />
 
-If youo use VScode, then you would be able to evaluate the code as well as view the page render all in one place.
+
+If you use VScode, then you would be able to evaluate the code as well as view the page render all in one place.
 
 Thanks,
 
