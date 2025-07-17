@@ -17,7 +17,7 @@ However;
 
 it is time to showcase some of my work as a software developer and GitHub is a good place for my code to be viewed and evaluated.
 
-From my Desktop is a screen shot of the files that were uploaded to this Readme.
+From my Desktop is a screen shot of the original website that I produced with the intent of introduction about my skill sets as a developer. All of the files that produce the above page and are listed below with a screen shot of the directory of files that were uploaded to this repository.
 
 <img width="632" height="178" alt="image" src="https://github.com/user-attachments/assets/a71a7355-e7c2-4d35-be75-948b1c80ddf7" />
 
