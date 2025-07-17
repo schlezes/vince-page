@@ -33,9 +33,6 @@ The following image is a screenshot for the opening page using port 5500 of 127.
 
 I have two photos on the opening page as this is supposed to be a profile of me and that kind of means what I look like as well as what I perceive as important as a front-end developer.
 
-<img width="1177" height="1041" alt="image" src="https://github.com/user-attachments/assets/02e0e8d9-7f02-409e-8244-0332c36b5d41" />
-
-
 If you use VScode, then you would be able to evaluate the code as well as view the page render all in one place.
 
 Thanks,
