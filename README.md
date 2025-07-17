@@ -1,3 +1,6 @@
+<img width="1177" height="1041" alt="image" src="https://github.com/user-attachments/assets/2954203f-eba6-4424-b3ea-e193dfa8390c" />
+
+
 These files were previously a separate website design that was hosted on the internet.
 
 I developed this website with HTML, JavaScript, TypeScript, CSS, CSS-Flexbox and some JSON.
